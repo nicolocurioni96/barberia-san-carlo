@@ -93,6 +93,12 @@ export const businessConfig = {
     }
   ],
 
+  // Social Media
+  social: {
+    instagram: "https://www.instagram.com/barberiasancarlo/",
+    facebook: "",
+  },
+
   // Hours
   hours: [
     "Lun – Ven: 9:00 – 19:00",
