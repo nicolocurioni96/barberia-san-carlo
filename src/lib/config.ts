@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Barberia San Carlo",
+  category: "barbershop",
   tagline: "Stile e cura del dettaglio per l'uomo moderno.",
   city: "Bologna",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via San Carlo, 2b, 40121 Bologna BO",
   phone: "+39 389 294 0036",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20San%20Carlo%2C%202b%2C%2040121%20Bologna%20BO",
